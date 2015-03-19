@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">myLoader</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="slice">SLICE: </string>
+    <string name="speed">SPEED: </string>
+    <string name="near">NEAR: </string>
+    <string name="far_plus">+ </string>
+    <string name="far_minus">- </string>
+    <string name="speed_plus">+ </string>
+    <string name="speed_minus">- </string>
+    
+</resources>
